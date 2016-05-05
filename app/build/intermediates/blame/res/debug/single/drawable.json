@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tap_3_ring_finger.jpg",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\src\\main\\res\\drawable\\tap_3_ring_finger.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wrist.jpg",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\src\\main\\res\\drawable\\wrist.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\number_2.jpg",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\src\\main\\res\\drawable\\number_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\number_5.jpg",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\src\\main\\res\\drawable\\number_5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tap_4_little_finger.jpg",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\src\\main\\res\\drawable\\tap_4_little_finger.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tap_1_index_finger.png",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\src\\main\\res\\drawable\\tap_1_index_finger.png"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\number_1.jpg",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\src\\main\\res\\drawable\\number_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\number_4.jpg",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\src\\main\\res\\drawable\\number_4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\init_picture.png",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\src\\main\\res\\drawable\\init_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tap_2_middle_finger.jpg",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\src\\main\\res\\drawable\\tap_2_middle_finger.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\number_3.jpg",
+        "source": "C:\\Users\\Hoa\\workspace\\thesis\\BLE_myo\\app\\src\\main\\res\\drawable\\number_3.jpg"
+    }
+]
